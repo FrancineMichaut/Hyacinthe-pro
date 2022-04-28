@@ -1,0 +1,49 @@
+/***********************************Format pour Galaxy note 20 Linux 412 x 915************************************************* */
+
+
+
+@media all and (min-width: 412px) and (max-width: 915px){
+    
+#presentation{
+    flex-direction: column;
+}
+.bloc{
+    flex-direction: column;
+}
+#Grosbloc{
+    /* display: flex;
+    flex-direction: column; */
+    display: block;
+}
+.bloc{
+   width: 90%;
+   height : auto; 
+   margin-top: 10%;
+}
+
+/* form{
+    display: block;
+} */
+
+form{
+    display: block;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Fin de la partie mobile   
+}

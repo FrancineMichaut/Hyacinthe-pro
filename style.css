@@ -1,0 +1,98 @@
+
+* {
+    margin: auto;
+    padding: auto;
+    box-sizing: border-box;
+    font-size: 20px; 
+
+
+}
+body{
+   text-decoration-color: darkslategray;
+  
+}
+nav{
+    background-color: darkslategray;
+    
+}
+.lien{
+    text-decoration-color: aliceblue;
+}
+
+
+#Grosbloc {
+    display: flex;
+    padding: 10% ;
+}
+h1
+{
+color : darkslategray; 
+text-align: center;
+padding: 10%;
+font-size: 150%;
+}
+.bloc{
+width: 30%;
+height: auto; 
+color : darkslategray;
+display :flex; 
+}
+img{
+    max-width: 90%;
+}
+.banniere_fleur{
+width: 3000px;
+height: auto; 
+max-width: 100%;
+}
+
+
+#presentation{
+    display: flex; 
+   
+    background-color :darkslategray;
+    border-radius: 10%;
+    width: 90%;
+    margin: 100px auto;
+
+}
+.lien{
+    border-radius: 5px;
+    color: white;
+    text-decoration: none;
+    margin: 10%;
+    padding: auto;
+}
+h2{
+    text-align: center;
+    color:white;
+    font-size: 100%;
+   margin :auto; 
+    background-color: darkslategray;
+}
+.sousbloc{
+    font-size: medium;
+    color:darkslategray ; 
+    font-weight : bold; 
+}
+form{
+    margin : 10%; 
+}
+
+
+.bg-img{
+    margin-top: 100px;
+    background-image: url("tulipes.jpg");
+}
+.hyacinthe{
+    color: white;
+    border-radius: 40%;
+}
+form{
+   background-color: darkslategray;
+   display: flex; 
+   color : white; 
+}
+button{
+    background-color:rgb(158, 246, 107);
+}
