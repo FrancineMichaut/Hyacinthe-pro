@@ -1,0 +1,20 @@
+/***********************************Format pour Galaxy note 20 Linux 412 x 915************************************************* */
+
+@media all and (min-width: 412px) and (max-width: 915px){
+
+  
+body{
+    background-color: blue;
+}
+
+iframe{
+width: 95%;
+
+}
+
+
+
+
+
+/* fin de la partie mobile */
+}
