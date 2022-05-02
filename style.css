@@ -23,6 +23,7 @@ nav{
 #Grosbloc {
     display: flex;
     padding: 10% ;
+   padding-top: 2px;
 }
 h1
 {
@@ -110,8 +111,11 @@ button{
 }
 #conteneur{
     /* Trouver un vert clair transparent */
-     background-image: url("https://img.freepik.com/vecteurs-libre/fond-texture-vert-clair-aquarelle-abstraite_1055-8198.jpg?w=360") ;
+     background-image: url("background.png");
      background-repeat: no-repeat;
      background-size: cover;
      
+}
+.premiergrosbloc{
+    padding-top: 5%;
 }
